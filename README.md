@@ -3,7 +3,7 @@
 ### :man_technologist: &nbsp;About Me :
 I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (i.e. Atmospheric Science): 
 
-- 🔭 I'm interested in tropical and sub-tropical climates, particularly convective precipitation. 
+- 🔭 I'm Ahmathlete (Not actual name) and I'm interested in tropical and sub-tropical climates, particularly convective precipitation. 
 - 🌱 As well as climate modelling, supercomputers, algorithms and their computational complexity. 
 ---
 
