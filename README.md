@@ -34,12 +34,11 @@ I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (
 
 ### Others: 
 <img align="left" alt="QGIS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" />
-<img align="left" alt="ArcGIS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" />
 <img align="left" alt="Inkscape" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png" />
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmathlete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
