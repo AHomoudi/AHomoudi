@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 ### :man_technologist: &nbsp;About Me :
+I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (i.e. Atmospheric Science): 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I'm interested in tropical and sub-tropical climates, particularly convective precipitation. 
+- 🌱 As well as climate modelling, supercomputers, algorithms and their computational complexity. 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -25,10 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmathlete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### ✍️ R Packages that I wrote/currently writting & maintain: 
 - [KlimaKonformC3](https://ahmathlete.github.io/KlimaKonformC3/)
@@ -36,17 +30,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [r.WRF](https://ahmathlete.github.io/r.WRF/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+### Others: 
+<img align="left" alt="QGIS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" />
+<img align="left" alt="ArcGIS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" />
+<img align="left" alt="Inkscape" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png" />
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+---
+
+### 🔥 &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmathlete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
