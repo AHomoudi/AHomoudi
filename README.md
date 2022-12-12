@@ -19,6 +19,8 @@ I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -29,12 +31,6 @@ I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (
 - [idps](https://ahmathlete.github.io/idps/)
 - [r.WRF](https://ahmathlete.github.io/r.WRF/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### Others: 
-<img align="left" alt="QGIS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" />
-<img align="left" alt="Inkscape" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png" />
 
 ---
 
