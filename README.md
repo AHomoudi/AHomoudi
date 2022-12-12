@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-<img src="https://en.wikipedia.org/wiki/Fortran#/media/File:Fortran_logo.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
+<img src="https://github.com/fortran-lang/assets/blob/main/fortran-logo.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;        
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
