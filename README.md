@@ -20,7 +20,7 @@ I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/inkscape/inkscape-icon.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
 </p>
 
 ---
