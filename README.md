@@ -36,8 +36,8 @@
 ---
 
 ### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmathlete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=ahmathlete&show_icons=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahomoudi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ahomoudi&show_icons=true"/>
 ---
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
