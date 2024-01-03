@@ -3,7 +3,7 @@
 ### :man_technologist: &nbsp;About Me :
 <!---I'm a Civil Engineer who got lost in a construction site and landed on Cloud 9 (i.e. Atmospheric Science): -->
 
-- 🔭 I'm Ahmed Homoudi, and I'm interested in tropical and sub-tropical climates, particularly convective precipitation. 
+- 🔭 I'm Ahmed Homoudi, and I am interested in tropical and sub-tropical climates, particularly convective precipitation. 
 - 🌱 As well as climate modelling, supercomputers, algorithms and their computational complexity. 
 ---
 
@@ -26,11 +26,16 @@
 ---
 
 
-### ✍️ R Packages that I'm currently developing & maintaining: 
-- [KlimaKonformC3](https://ahomoudi.github.io/KlimaKonformC3/)
+### ✍️ R Packages that I'm currently developing & maintaining:
 - [idps](https://ahomoudi.github.io/idps/)
 - [MeteoMate](https://ahomoudi.github.io/MeteoMate/)
 - [rWRF](https://ahomoudi.github.io/rWRF/)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ✍️ R Packages that I developed: 
+- [KlimaKonformC3](https://ahomoudi.github.io/KlimaKonformC3/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
